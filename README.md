@@ -15,7 +15,7 @@ whereas the player can choose to hit or stand.
 
 • If the dealers hand goes over 21 the player wins. If the dealers hand is between 17 and 21 (inclusive) then the winner is whoever has the bigger hand.
 
-Following is a picture of going a round with the dealer.
+Following is an image of playing a round with the dealer.
 
 ![p](https://user-images.githubusercontent.com/35476666/125219827-65fe8a80-e27a-11eb-860b-249817e5f0b2.PNG)
 
