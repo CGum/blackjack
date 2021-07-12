@@ -2,7 +2,7 @@ This is the game Blackjack implemented by using Python.
 
 This is meant to be a game played on the terminal. It is a 1 vs AI game where a user will play against the dealer, where the dealer will play the game by the classic Blackjack rules. To play the game you will have to run the Blackjack_Controller.py file. 
 
-![p3](https://user-images.githubusercontent.com/35476666/125220092-f9d05680-e27a-11eb-9f04-89ad8dcf2b61.PNG)
+![p3](https://user-images.githubusercontent.com/35476666/125220246-3ac86b00-e27b-11eb-8a17-4acebd8a45b4.PNG)
 
 Game Rules:
 • The game starts with a standard set of 52 cards randomly shuffled. The value of each card is its associated number with the jack, queen, and king all being worth 10. The ace has the value of 11 unless it is in a hand with a value over 21 in which case it has the value of 1. For example, a hand with an ace and a seven has a value of 18 whereas a hand with an ace, seven, and five has a value of 13. 
