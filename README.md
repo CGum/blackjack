@@ -4,7 +4,7 @@ This is meant to be a game played on the terminal. It is a 1 vs AI game where a 
 
 ![p3](https://user-images.githubusercontent.com/35476666/125220246-3ac86b00-e27b-11eb-8a17-4acebd8a45b4.PNG)
 
-Game Rules:
+Game Rules:<br>
 • The game starts with a standard set of 52 cards randomly shuffled. The value of each card is its associated number with the jack, queen, and king all being worth 10. The ace has the value of 11 unless it is in a hand with a value over 21 in which case it has the value of 1. For example, a hand with an ace and a seven has a value of 18 whereas a hand with an ace, seven, and five has a value of 13. 
 
 • Both the player and the dealer are given 2 cards. The player can see both of their cards but only one of the dealers cards.
