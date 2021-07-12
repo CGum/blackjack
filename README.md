@@ -18,6 +18,7 @@ automatically keep taking more cards until it is at least 17. The dealers decisi
 whereas the player can choose to hit or stand.
 • If the dealers hand goes over 21 the player wins. If the dealers hand is between 17 and 21 (inclusive)
 then the winner is whoever has the bigger hand.
+
 ![p](https://user-images.githubusercontent.com/35476666/125219244-57fc3a00-e279-11eb-8da0-7a40a24d6dbe.PNG)
 ![p2](https://user-images.githubusercontent.com/35476666/125219250-5a5e9400-e279-11eb-88ac-93392071fc45.PNG)
 ![p3](https://user-images.githubusercontent.com/35476666/125219255-5af72a80-e279-11eb-9ce8-5afae4323985.PNG)
